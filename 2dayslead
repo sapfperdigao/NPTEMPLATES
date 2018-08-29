@@ -1,0 +1,27 @@
+<html>
+<head>
+</head>
+<body>
+<img src="Nestle_Logo.jpg" alt="Nestle Logo" width="680" height="325" border="0.5"> <br><br>
+
+<font size="+1">Потенц.возможность #1# находится в статусе «Назначено» слишком долго. <br></font>
+<font size="+1">Возможно, работа над ней до сих пор не начата. Необходимо перевести <br>
+</font>
+<font size="+1">потенц.возможность в статус «Принято» или «Отклонено» в течение следующих 48 <br></font>
+<font size="+1">часов.<br><br></font>
+
+<font size="+1">Ид. потенц.возможности:<font color="blue">#1#</font><br> 
+<font size="+1">Ид. клиента: <font color="blue">#3#</font><br> 
+<font size="+1">Название потенц.возможности:<font color="blue">#2#</font><br> 
+<font size="+1">Владелец:<font color="blue">#5#</font><br> 
+
+<br><br>
+
+
+<font size="+1">
+Чтобы войти, используя Single Sign-On (SSO), нажмите <a href="https://sts02.nestle.com/adfs/ls/"><font color="blue">сюда</a></font><br>
+<font size="+1">Чтобы перейти на экран ввода логина и пароля, нажмите <a href="https://my324322.crm.ondemand.com"><font color="blue">сюда</a></font>
+</body>
+</html>
+
+
